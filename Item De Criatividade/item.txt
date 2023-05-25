@@ -1,0 +1,6 @@
+Os itens d criatividade incluidos foram:
+
+Link nas imagens: ao clicar nas imagens dos livros vc é redirecionado para a amazon onde poderá efetuar a compra.
+Title na iagem: Ao passar o mouse em cima da imagem e aguardar alguns segundo aparece a mensagem Comprar na Amazon
+Link no autor: ao passar o mouse no nome do autor vc é redirecionado para a wikipédia di mesmo.
+Ao passar o mouse em cima das imagens vc nota que elas se mexem.
